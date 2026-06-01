@@ -1,8 +1,10 @@
 # Global Weather & Location Prediction Engine
 
 This repository contains a complete deep learning pipeline for predicting global weather patterns, specifically focusing on temperature regression and geographical classification. Built with PyTorch and tracked via MLflow, the project processes comprehensive meteorological data to derive accurate predictions for temperature, location, and country.
+
+## Dataset: 
+
 [![Use Dataset](https://img.shields.io/badge/Use%20Dataset-Kaggle-2962FF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository)
-Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/global-weather-repository/code?datasetId=3678699&sortBy=dateRun&tab=profile&excludeNonAccessedDatasources=false
 
 ## 📌 Project Overview
 
