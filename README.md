@@ -1,6 +1,6 @@
 # Global Weather to Country Predictor 🌍🌦️
 
-A Streamlit web application that predicts a geographic location (country) based on real-time weather measurements. The prediction engine is powered by a custom PyTorch Multi-Layer Perceptron (MLP) neural network.
+A weather model that predicts a geographic location (country) based on real-time weather measurements. The prediction engine is powered by a custom PyTorch Multi-Layer Perceptron (MLP) neural network.
 
 ## 📌 Project Overview
 
@@ -52,25 +52,5 @@ To run this application locally, ensure Python 3.8+ is installed.
     cd your-repo-name
     ```
 
-2.  **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-3.  **Launch the Streamlit application:**
-    ```bash
-    streamlit run app.py
-    ```
-
-## ☁️ Deployment on Streamlit Cloud
-
-This application is configured for seamless deployment on Streamlit Community Cloud.
-
-1.  Push this repository to a public GitHub account.
-2.  Log in to Streamlit Cloud.
-3.  Click **New app**.
-4.  Select this repository, set the branch to `main`, and set the main file path to `app.py`.
-5.  Click **Deploy!**
-
----
 *Created by Shanta Majumder*
